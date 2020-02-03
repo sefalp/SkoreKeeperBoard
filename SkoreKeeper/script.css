@@ -1,0 +1,27 @@
+
+body{
+    background-color: rgb(37, 26, 22);
+
+}
+
+.container{
+text-align: center;
+height: 700px;
+width: 700px;
+border-radius: 50%;
+background-color: red;
+justify-content: center;
+padding-top: 12rem;
+margin-top: 8rem;
+border: 4rem solid rgb(134, 0, 0);
+}
+.texx{
+    font-size: 5rem;
+}
+p{
+    font-weight: 700;
+}
+
+#scr1,#scr2{
+    font-size: 7rem;
+}
